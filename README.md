@@ -1,2 +1,2 @@
 # AstroBuy
-Jual Roket
+Rental Roket
